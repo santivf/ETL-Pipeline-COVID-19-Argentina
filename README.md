@@ -1,7 +1,5 @@
 # ETL-Pipeline-COVID-19-Argentina
 
-# ETL Pipeline COVID-19 Argentina
-
 ETL pipeline for historical COVID-19 cases in Argentina (2020-2022).
 
 ## Features
